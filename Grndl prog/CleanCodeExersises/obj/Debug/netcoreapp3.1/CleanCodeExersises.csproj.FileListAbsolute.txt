@@ -1,0 +1,20 @@
+C:\Users\lkri\source\repos\CleanCodeExersises\CleanCodeExersises\bin\Debug\netcoreapp3.1\CleanCodeExersises.exe
+C:\Users\lkri\source\repos\CleanCodeExersises\CleanCodeExersises\bin\Debug\netcoreapp3.1\CleanCodeExersises.deps.json
+C:\Users\lkri\source\repos\CleanCodeExersises\CleanCodeExersises\bin\Debug\netcoreapp3.1\CleanCodeExersises.runtimeconfig.json
+C:\Users\lkri\source\repos\CleanCodeExersises\CleanCodeExersises\bin\Debug\netcoreapp3.1\CleanCodeExersises.runtimeconfig.dev.json
+C:\Users\lkri\source\repos\CleanCodeExersises\CleanCodeExersises\bin\Debug\netcoreapp3.1\CleanCodeExersises.dll
+C:\Users\lkri\source\repos\CleanCodeExersises\CleanCodeExersises\bin\Debug\netcoreapp3.1\CleanCodeExersises.pdb
+C:\Users\lkri\source\repos\CleanCodeExersises\CleanCodeExersises\obj\Debug\netcoreapp3.1\CleanCodeExersises.csprojAssemblyReference.cache
+C:\Users\lkri\source\repos\CleanCodeExersises\CleanCodeExersises\obj\Debug\netcoreapp3.1\CleanCodeExersises.csproj.CoreCompileInputs.cache
+C:\Users\lkri\source\repos\CleanCodeExersises\CleanCodeExersises\obj\Debug\netcoreapp3.1\CleanCodeExersises.AssemblyInfoInputs.cache
+C:\Users\lkri\source\repos\CleanCodeExersises\CleanCodeExersises\obj\Debug\netcoreapp3.1\CleanCodeExersises.AssemblyInfo.cs
+C:\Users\lkri\source\repos\CleanCodeExersises\CleanCodeExersises\obj\Debug\netcoreapp3.1\CleanCodeExersises.dll
+C:\Users\lkri\source\repos\CleanCodeExersises\CleanCodeExersises\obj\Debug\netcoreapp3.1\CleanCodeExersises.pdb
+C:\Users\lkri\source\repos\CleanCodeExersises\CleanCodeExersises\obj\Debug\netcoreapp3.1\CleanCodeExersises.genruntimeconfig.cache
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\CleanCodeExersises\obj\Debug\netcoreapp3.1\CleanCodeExersises.csproj.AssemblyReference.cache
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\CleanCodeExersises\obj\Debug\netcoreapp3.1\CleanCodeExersises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\CleanCodeExersises\obj\Debug\netcoreapp3.1\CleanCodeExersises.AssemblyInfoInputs.cache
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\CleanCodeExersises\obj\Debug\netcoreapp3.1\CleanCodeExersises.AssemblyInfo.cs
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\CleanCodeExersises\obj\Debug\netcoreapp3.1\CleanCodeExersises.csproj.CoreCompileInputs.cache
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\CleanCodeExersises\obj\Debug\netcoreapp3.1\CleanCodeExersises.dll
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\CleanCodeExersises\obj\Debug\netcoreapp3.1\CleanCodeExersises.pdb

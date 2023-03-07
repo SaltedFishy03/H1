@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JEiecSNo/DfOen3C1gYfckMVEWo+w5aUwRiCmrYVJRK63jesk31LUGdjVwgSyJfznJSdw2rAPRm3A7Cmmp2Gnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mathias Schaltz\\source\\repos\\SaltedFishy03\\H1\\Grndl prog\\CleanCodeExersises\\CleanCodeExersises.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mathias Schaltz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Mathias Schaltz\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Mathias Schaltz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Mathias Schaltz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
