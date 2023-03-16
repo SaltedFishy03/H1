@@ -22,45 +22,36 @@ namespace DataTypes
             switch (type)
             {
                 case "Double":
-                    Console.WriteLine($"Byte størelsen på {type}");
+                    Console.WriteLine($"Byte størrelsen på {type}");
                     ByteDiagram(sizeof(double));
                     Console.WriteLine($"Max værdien {type} kan indeholde {double.MaxValue}");
                     break;
 
                 case "Int":
-                    Console.WriteLine($"Byte størelsen på {type}");
-                    for (int i = 0; i < sizeof(int); i++)
-                    {
-                        Console.WriteLine(" _______\n|   1   |");
-                    }
+                    Console.WriteLine($"Byte størrelsen på {type}");
+                    ByteDiagram(sizeof(int));
                     Console.WriteLine($"Her er max værdien {type} can indeholde {int.MaxValue}");
                     break;
 
                 case "Char":
-                    Console.WriteLine($"Byte størelsen på {type}");
-                    for (int i = 0; i < sizeof(double); i++)
-                    {
-                        Console.WriteLine(" _______\n|   1   |");
-                    }
+                    Console.WriteLine($"Byte størrelsen på {type}");
+                    ByteDiagram(sizeof(char));
                     Console.WriteLine($"Her er max værdien {type} can indeholde {char.MaxValue}");
                     break;
 
                 case "Float":
-                    Console.WriteLine($"Byte størelsen på {type}");
-                    for (int i = 0; i < sizeof(double); i++)
-                    {
-                        Console.WriteLine(" _______\n|   1   |");
-                    }
+                    Console.WriteLine($"Byte størrelsen på {type}");
+                    ByteDiagram(sizeof(float));
                     Console.WriteLine($"Her er max værdien float can indeholde {float.MaxValue}");
                     break;
 
                 case "Array":
                     int[] arr = { 1, 2, 3 };
                     Console.WriteLine(arr.Length + 1);
-                    Console.WriteLine("Jeg aner ikke hvad max værdien skulle være for et array hvis der overhovdet har et");
-
+                    Console.WriteLine("Et array har en byteværdi af den mængde du tildeler i den, plus array'et selv");
                     break;
                 default:
+                    Console.WriteLine("Indtast ordet med stort første bugstav");
                     break;
             }
         }
