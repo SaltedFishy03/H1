@@ -1,0 +1,15 @@
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\Fejlfinding-obj\bin\Debug\net7.0\Fejlfinding-obj.exe
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\Fejlfinding-obj\bin\Debug\net7.0\Fejlfinding-obj.deps.json
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\Fejlfinding-obj\bin\Debug\net7.0\Fejlfinding-obj.runtimeconfig.json
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\Fejlfinding-obj\bin\Debug\net7.0\Fejlfinding-obj.dll
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\Fejlfinding-obj\bin\Debug\net7.0\Fejlfinding-obj.pdb
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\Fejlfinding-obj\obj\Debug\net7.0\Fejlfinding-obj.csproj.AssemblyReference.cache
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\Fejlfinding-obj\obj\Debug\net7.0\Fejlfinding-obj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\Fejlfinding-obj\obj\Debug\net7.0\Fejlfinding-obj.AssemblyInfoInputs.cache
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\Fejlfinding-obj\obj\Debug\net7.0\Fejlfinding-obj.AssemblyInfo.cs
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\Fejlfinding-obj\obj\Debug\net7.0\Fejlfinding-obj.csproj.CoreCompileInputs.cache
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\Fejlfinding-obj\obj\Debug\net7.0\Fejlfinding-obj.dll
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\Fejlfinding-obj\obj\Debug\net7.0\refint\Fejlfinding-obj.dll
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\Fejlfinding-obj\obj\Debug\net7.0\Fejlfinding-obj.pdb
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\Fejlfinding-obj\obj\Debug\net7.0\Fejlfinding-obj.genruntimeconfig.cache
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\Fejlfinding-obj\obj\Debug\net7.0\ref\Fejlfinding-obj.dll
