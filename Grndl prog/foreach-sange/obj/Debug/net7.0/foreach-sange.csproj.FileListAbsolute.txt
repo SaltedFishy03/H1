@@ -1,0 +1,15 @@
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\foreach-sange\bin\Debug\net7.0\foreach-sange.exe
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\foreach-sange\bin\Debug\net7.0\foreach-sange.deps.json
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\foreach-sange\bin\Debug\net7.0\foreach-sange.runtimeconfig.json
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\foreach-sange\bin\Debug\net7.0\foreach-sange.dll
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\foreach-sange\bin\Debug\net7.0\foreach-sange.pdb
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\foreach-sange\obj\Debug\net7.0\foreach-sange.csproj.AssemblyReference.cache
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\foreach-sange\obj\Debug\net7.0\foreach-sange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\foreach-sange\obj\Debug\net7.0\foreach-sange.AssemblyInfoInputs.cache
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\foreach-sange\obj\Debug\net7.0\foreach-sange.AssemblyInfo.cs
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\foreach-sange\obj\Debug\net7.0\foreach-sange.csproj.CoreCompileInputs.cache
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\foreach-sange\obj\Debug\net7.0\foreach-sange.dll
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\foreach-sange\obj\Debug\net7.0\refint\foreach-sange.dll
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\foreach-sange\obj\Debug\net7.0\foreach-sange.pdb
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\foreach-sange\obj\Debug\net7.0\foreach-sange.genruntimeconfig.cache
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\foreach-sange\obj\Debug\net7.0\ref\foreach-sange.dll
