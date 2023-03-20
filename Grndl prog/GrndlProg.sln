@@ -13,11 +13,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ObjectOrientede", "ObjectOr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankAccount", "BankAccount\BankAccount.csproj", "{F36FB914-2D1A-4D4A-86BB-5B9625DB505A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fejlfinding-obj", "Fejlfinding-obj\Fejlfinding-obj.csproj", "{EC079C41-2905-40E3-884C-E749603E1F72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fejlfinding-obj", "Fejlfinding-obj\Fejlfinding-obj.csproj", "{EC079C41-2905-40E3-884C-E749603E1F72}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "fejlfinding", "fejlfinding", "{F49F81E3-C43A-4C11-BE68-F55F0A3D6BED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foreach-sange", "foreach-sange\foreach-sange.csproj", "{1CC9A414-07F4-4915-A953-FA198E73B26E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "foreach-sange", "foreach-sange\foreach-sange.csproj", "{1CC9A414-07F4-4915-A953-FA198E73B26E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logiske operatorer 1", "Logiske operatorer 1\Logiske operatorer 1.csproj", "{0C11FC2A-1077-4A9A-9E3C-737E038CDD93}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{1CC9A414-07F4-4915-A953-FA198E73B26E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CC9A414-07F4-4915-A953-FA198E73B26E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CC9A414-07F4-4915-A953-FA198E73B26E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C11FC2A-1077-4A9A-9E3C-737E038CDD93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C11FC2A-1077-4A9A-9E3C-737E038CDD93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C11FC2A-1077-4A9A-9E3C-737E038CDD93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C11FC2A-1077-4A9A-9E3C-737E038CDD93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -56,6 +62,7 @@ Global
 		{EC079C41-2905-40E3-884C-E749603E1F72} = {F49F81E3-C43A-4C11-BE68-F55F0A3D6BED}
 		{F49F81E3-C43A-4C11-BE68-F55F0A3D6BED} = {CB36ECA6-9143-4A0C-A860-39B7A6AB86FD}
 		{1CC9A414-07F4-4915-A953-FA198E73B26E} = {F49F81E3-C43A-4C11-BE68-F55F0A3D6BED}
+		{0C11FC2A-1077-4A9A-9E3C-737E038CDD93} = {F49F81E3-C43A-4C11-BE68-F55F0A3D6BED}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1C0B47E8-C8B0-4DAF-AED4-0EC5BF8FF16F}
