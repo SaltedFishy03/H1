@@ -20,7 +20,7 @@ namespace and_operator
             name = "Steven";
             password = "Steven123";
 
-            // evaluating both expresson and returns true if              all are true.
+            // evaluating both expresson and returns true if all are true.
 
             if (name == "Steven" && password == "Steven123")
             {

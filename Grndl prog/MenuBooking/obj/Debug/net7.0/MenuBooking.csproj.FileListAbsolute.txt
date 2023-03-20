@@ -1,0 +1,15 @@
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\MenuBooking\bin\Debug\net7.0\MenuBooking.exe
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\MenuBooking\bin\Debug\net7.0\MenuBooking.deps.json
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\MenuBooking\bin\Debug\net7.0\MenuBooking.runtimeconfig.json
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\MenuBooking\bin\Debug\net7.0\MenuBooking.dll
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\MenuBooking\bin\Debug\net7.0\MenuBooking.pdb
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\MenuBooking\obj\Debug\net7.0\MenuBooking.csproj.AssemblyReference.cache
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\MenuBooking\obj\Debug\net7.0\MenuBooking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\MenuBooking\obj\Debug\net7.0\MenuBooking.AssemblyInfoInputs.cache
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\MenuBooking\obj\Debug\net7.0\MenuBooking.AssemblyInfo.cs
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\MenuBooking\obj\Debug\net7.0\MenuBooking.csproj.CoreCompileInputs.cache
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\MenuBooking\obj\Debug\net7.0\MenuBooking.dll
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\MenuBooking\obj\Debug\net7.0\refint\MenuBooking.dll
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\MenuBooking\obj\Debug\net7.0\MenuBooking.pdb
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\MenuBooking\obj\Debug\net7.0\MenuBooking.genruntimeconfig.cache
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\MenuBooking\obj\Debug\net7.0\ref\MenuBooking.dll

@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "foreach-sange", "foreach-sa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logiske operatorer 1", "Logiske operatorer 1\Logiske operatorer 1.csproj", "{0C11FC2A-1077-4A9A-9E3C-737E038CDD93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuBooking", "MenuBooking\MenuBooking.csproj", "{1FBF579E-57CF-4456-A42B-D71C0FA4FECE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{0C11FC2A-1077-4A9A-9E3C-737E038CDD93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C11FC2A-1077-4A9A-9E3C-737E038CDD93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C11FC2A-1077-4A9A-9E3C-737E038CDD93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FBF579E-57CF-4456-A42B-D71C0FA4FECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FBF579E-57CF-4456-A42B-D71C0FA4FECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FBF579E-57CF-4456-A42B-D71C0FA4FECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FBF579E-57CF-4456-A42B-D71C0FA4FECE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -63,6 +69,7 @@ Global
 		{F49F81E3-C43A-4C11-BE68-F55F0A3D6BED} = {CB36ECA6-9143-4A0C-A860-39B7A6AB86FD}
 		{1CC9A414-07F4-4915-A953-FA198E73B26E} = {F49F81E3-C43A-4C11-BE68-F55F0A3D6BED}
 		{0C11FC2A-1077-4A9A-9E3C-737E038CDD93} = {F49F81E3-C43A-4C11-BE68-F55F0A3D6BED}
+		{1FBF579E-57CF-4456-A42B-D71C0FA4FECE} = {F49F81E3-C43A-4C11-BE68-F55F0A3D6BED}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1C0B47E8-C8B0-4DAF-AED4-0EC5BF8FF16F}
