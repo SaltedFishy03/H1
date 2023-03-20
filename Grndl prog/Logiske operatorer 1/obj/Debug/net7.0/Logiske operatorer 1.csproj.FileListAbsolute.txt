@@ -1,0 +1,15 @@
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\Logiske operatorer 1\obj\Debug\net7.0\Logiske operatorer 1.csproj.AssemblyReference.cache
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\Logiske operatorer 1\obj\Debug\net7.0\Logiske operatorer 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\Logiske operatorer 1\obj\Debug\net7.0\Logiske operatorer 1.AssemblyInfoInputs.cache
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\Logiske operatorer 1\obj\Debug\net7.0\Logiske operatorer 1.AssemblyInfo.cs
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\Logiske operatorer 1\obj\Debug\net7.0\Logiske operatorer 1.csproj.CoreCompileInputs.cache
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\Logiske operatorer 1\bin\Debug\net7.0\Logiske operatorer 1.exe
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\Logiske operatorer 1\bin\Debug\net7.0\Logiske operatorer 1.deps.json
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\Logiske operatorer 1\bin\Debug\net7.0\Logiske operatorer 1.runtimeconfig.json
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\Logiske operatorer 1\bin\Debug\net7.0\Logiske operatorer 1.dll
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\Logiske operatorer 1\bin\Debug\net7.0\Logiske operatorer 1.pdb
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\Logiske operatorer 1\obj\Debug\net7.0\Logiske operatorer 1.dll
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\Logiske operatorer 1\obj\Debug\net7.0\refint\Logiske operatorer 1.dll
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\Logiske operatorer 1\obj\Debug\net7.0\Logiske operatorer 1.pdb
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\Logiske operatorer 1\obj\Debug\net7.0\Logiske operatorer 1.genruntimeconfig.cache
+C:\Users\Mathias Schaltz\source\repos\SaltedFishy03\H1\Grndl prog\Logiske operatorer 1\obj\Debug\net7.0\ref\Logiske operatorer 1.dll
